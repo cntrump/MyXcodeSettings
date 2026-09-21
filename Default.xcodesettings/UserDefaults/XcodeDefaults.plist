@@ -64,7 +64,7 @@
 	<key>IDEAlwaysShowEditorTabBar</key>
 	<true/>
 	<key>IDEAppearance</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>IDEDidCompleteThemesFLEToolsVersion</key>
 	<string>27.0</string>
 	<key>IDENavigatorRowSizeStyle</key>
