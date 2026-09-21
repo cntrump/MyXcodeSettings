@@ -133,10 +133,6 @@
 	<string>Default (Light).xccolortheme</string>
 	<key>XCFontAndColorExcludedThemes</key>
 	<array>
-		<string>Bare.xccolortheme</string>
-		<string>Spartan.xccolortheme</string>
-		<string>Default (Light).xccolortheme</string>
-		<string>Default (Dark).xccolortheme</string>
 	</array>
 </dict>
 </plist>
