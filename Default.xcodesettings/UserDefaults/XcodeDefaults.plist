@@ -15,7 +15,7 @@
 	<key>DVTTextReformatGeneratedCode</key>
 	<true/>
 	<key>DVTTextScopeGuidesDisplayStyle</key>
-	<string>All</string>
+	<string>Active Only</string>
 	<key>DVTTextShowFoldingSidebar</key>
 	<true/>
 	<key>DVTTextShowPageGuide</key>
