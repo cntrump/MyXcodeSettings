@@ -6,52 +6,22 @@
 	<true/>
 	<key>DVTFontAndColorLastUpdatedToolsVersion</key>
 	<string>27.0</string>
-	<key>DVTSourceEditorCursor</key>
-	<string>Vertical Bar</string>
 	<key>DVTTextEditorTrimWhitespaceOnlyLines</key>
 	<true/>
 	<key>DVTTextPageGuideLocation</key>
 	<integer>120</integer>
-	<key>DVTTextReformatGeneratedCode</key>
-	<true/>
 	<key>DVTTextScopeGuidesDisplayStyle</key>
 	<string>Active Only</string>
-	<key>DVTTextShowFoldingSidebar</key>
-	<true/>
 	<key>DVTTextShowPageGuide</key>
 	<true/>
 	<key>DVTTextShowScopeGuides</key>
 	<true/>
 	<key>DVTWorkspaceGlobalFontRecipe</key>
 	<data>
-	eyJkYXJrT3ZlcnJpZGVzIjpbImtleXdvcmQuYXR0cmlidXRlIix7ImZhbWlseSI6eyJt
-	b25vc3BhY2UiOnt9fSwic2l6ZSI6MTEsInZhcmlhbnQiOnsiaWRlbnRpZmllciI6IlNG
-	TW9uby1SZWd1bGFyIiwic2xhbnQiOnsidmFsdWUiOjB9LCJ3ZWlnaHQiOjQsIndpZHRo
-	Ijp7InZhbHVlIjowfX19LCJrZXl3b3JkIix7ImZhbWlseSI6eyJtb25vc3BhY2UiOnt9
-	fSwic2l6ZSI6MTEsInZhcmlhbnQiOnsiaWRlbnRpZmllciI6IlNGTW9uby1TZW1pYm9s
-	ZCIsInNsYW50Ijp7InZhbHVlIjowfSwid2VpZ2h0Ijo2LCJ3aWR0aCI6eyJ2YWx1ZSI6
-	MH19fV0sImZvbnRzIjpbeyJjb2RlIjp7fX0seyJjYXRlZ29yeSI6eyJjb2RlIjp7fX0s
-	ImRpc3BsYXlNb2RlcyI6W3sic3RhbmRhcmQiOnt9fSx7ImNhdGVnb3J5Ijp7ImNvZGUi
-	Ont9fSwiY29udGVudCI6eyJjdXN0b20iOnsiYXV0b21hdGljU2l6ZSI6ZmFsc2UsImRh
-	cmsiOnsiZmFtaWx5Ijp7Im1vbm9zcGFjZSI6e319LCJzaXplIjoxMSwidmFyaWFudCI6
-	eyJpZGVudGlmaWVyIjoiU0ZNb25vLU1lZGl1bSIsInNsYW50Ijp7InZhbHVlIjowfSwi
-	d2VpZ2h0Ijo1LCJ3aWR0aCI6eyJ2YWx1ZSI6MH19fSwibGlnaHQiOnsiZmFtaWx5Ijp7
-	Im1vbm9zcGFjZSI6e319LCJzaXplIjoxMSwidmFyaWFudCI6eyJpZGVudGlmaWVyIjoi
-	U0ZNb25vLVJlZ3VsYXIiLCJzbGFudCI6eyJ2YWx1ZSI6MH0sIndlaWdodCI6NCwid2lk
-	dGgiOnsidmFsdWUiOjB9fX19fX1dfV0sImxpZ2h0T3ZlcnJpZGVzIjpbImtleXdvcmQu
-	YXR0cmlidXRlIix7ImZhbWlseSI6eyJtb25vc3BhY2UiOnt9fSwic2l6ZSI6MTEsInZh
-	cmlhbnQiOnsiaWRlbnRpZmllciI6IlNGTW9uby1SZWd1bGFyIiwic2xhbnQiOnsidmFs
-	dWUiOjB9LCJ3ZWlnaHQiOjQsIndpZHRoIjp7InZhbHVlIjowfX19LCJrZXl3b3JkIix7
-	ImZhbWlseSI6eyJtb25vc3BhY2UiOnt9fSwic2l6ZSI6MTEsInZhcmlhbnQiOnsiaWRl
-	bnRpZmllciI6IlNGTW9uby1TZW1pYm9sZCIsInNsYW50Ijp7InZhbHVlIjowfSwid2Vp
-	Z2h0Ijo2LCJ3aWR0aCI6eyJ2YWx1ZSI6MH19fV0sImxpbmVTcGFjaW5nIjp7Im5vcm1h
-	bCI6e319fQ==
-	</data>
-	<key>DVTWorkspaceRecipeLastUsedDates</key>
-	<data>
-	eyI4QjI2MkQ5Ni01NEYzLTUzNTYtQkZBMy05OThBMzM1MDAxQjciOjgxMTY1MjcwOS45
-	NzMzNDIsIjQwNkVGNUJDLUIwNkItNTZGQy04MjkxLTEwODlDRDYxNjk0MCI6ODExNjUy
-	NzI4LjQ3MjMxNX0=
+	eyJmb250cyI6W3siY29kZSI6e319LHsiY2F0ZWdvcnkiOnsiY29kZSI6e319LCJkaXNw
+	bGF5TW9kZXMiOlt7InN0YW5kYXJkIjp7fX0seyJjYXRlZ29yeSI6eyJjb2RlIjp7fX0s
+	ImNvbnRlbnQiOnsiYXV0b21hdGljIjp7InNpemUiOjExfX19XX1dLCJsaW5lU3BhY2lu
+	ZyI6eyJub3JtYWwiOnt9fX0=
 	</data>
 	<key>DVTWorkspaceThemeSettings</key>
 	<data>
@@ -59,80 +29,19 @@
 	QTMtOTk4QTMzNTAwMUI3In19LCJsaWdodCI6eyJzYXZlZFJlY2lwZSI6eyJfMCI6IjQw
 	NkVGNUJDLUIwNkItNTZGQy04MjkxLTEwODlDRDYxNjk0MCJ9fX0=
 	</data>
-	<key>IDEAlwaysShowCompressedStackFrames</key>
-	<false/>
-	<key>IDEAlwaysShowEditorTabBar</key>
-	<true/>
 	<key>IDEAppearance</key>
 	<integer>0</integer>
 	<key>IDEDidCompleteThemesFLEToolsVersion</key>
 	<string>27.0</string>
+	<key>IDEDistributionAppSubmissionNotificationEnabled</key>
+	<false/>
+	<key>IDEDistributionNotarizationNotificationEnabled</key>
+	<false/>
 	<key>IDENavigatorRowSizeStyle</key>
 	<integer>1</integer>
-	<key>IDEWorkspaceSuppressCleanBuildPrompt</key>
-	<true/>
-	<key>NSToolbar Configuration Xcode.IDEKit.Toolbar.Workspace.Customizable</key>
-	<dict>
-		<key>TB Default Item Identifiers</key>
-		<array>
-			<string>Xcode.IDEKit.CustomToolbarItem.ToggleNavigator</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.RunStop</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.SplitViewDivider-0</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.BackForward</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.WindowTitle</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.IDEIntelligenceChat.CustomToolbarItem.NewConversation</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.RootChooser</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.SchemePicker.Centered</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.Issues</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.XcodeCloud.CustomToolbarItem.ToolbarItem</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.StatusCategories</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.AddEditor</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.EditorOptions</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.EditorMode</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.SplitViewDivider-1</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.ToggleInspector</string>
-		</array>
-		<key>TB Display Mode</key>
-		<integer>2</integer>
-		<key>TB Icon Size Mode</key>
-		<integer>1</integer>
-		<key>TB Is Shown</key>
-		<true/>
-		<key>TB Item Identifiers</key>
-		<array>
-			<string>Xcode.IDEKit.CustomToolbarItem.ToggleNavigator</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.RunStop</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.SplitViewDivider-0</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.BackForward</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.WindowTitle</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.IDEIntelligenceChat.CustomToolbarItem.NewConversation</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.SchemePicker.Centered</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.Issues</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.XcodeCloud.CustomToolbarItem.ToolbarItem</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.StatusCategories</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.AddEditor</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.EditorOptions</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.EditorMode</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.SplitViewDivider-1</string>
-			<string>NSToolbarFlexibleSpaceItem</string>
-			<string>Xcode.IDEKit.CustomToolbarItem.ToggleInspector</string>
-		</array>
-		<key>TB Size Mode</key>
-		<integer>1</integer>
-	</dict>
 	<key>XCFontAndColorCurrentDarkTheme</key>
-	<string>Default (Dark).xccolortheme</string>
+	<string>GitHub (Dark).xccolortheme</string>
 	<key>XCFontAndColorCurrentTheme</key>
-	<string>Default (Light).xccolortheme</string>
-	<key>XCFontAndColorExcludedThemes</key>
-	<array>
-	</array>
+	<string>GitHub (Light).xccolortheme</string>
 </dict>
 </plist>
